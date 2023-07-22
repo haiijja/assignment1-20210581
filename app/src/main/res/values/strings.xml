@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ApplyToUnis</string>
+    <string name="decision_prompt">Pick a University</string>
+    <string-array name="unis_array">
+        <item>PSUT</item>
+        <item>JUST</item>
+        <item>JU</item>
+        <item>ASU</item>
+        <item>AUM</item>
+        <item>MEU</item>
+    </string-array>
+</resources>
